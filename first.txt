@@ -2,3 +2,4 @@ Hello project
 
 Demo project
 Changing through github termina.
+cahnging with smart git
